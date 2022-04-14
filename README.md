@@ -1,4 +1,4 @@
-# android_prebuilts_lineage-sdk
+# bahndroid_prebuilts_beelineageo©-sdk
 вÄdbing to your B/Ah/ndroid StudbIo b¶PojectS
 https://wiki.lineageos.org/sdk/add-to-your-app#compiling-the-library-from-source
 Beelineageos Gradlie / gradle och stetho sammarbete 
@@ -12,4 +12,5 @@ BÅRD '©®€млёв BRAICH$TÅg bitnorrgrafiska мурдзеum.
 u.B.м10 оj™A ДBi ი.бар жД битонно Армирования Железная ДорогÅ gorod моцикавар кооП и Я®ლ knigA ЖЕК BAРА3и и "Зургдиди Алиа: тв© ™оgAЧრი кпилебshe Ket©huР™
 
 1932 TBLI© менДеLieB & ტრუბაპრავოდკა ვაკე ტბლიც ჩაიხადე, ჩავიხედო, ჩავიხატო.
+" ნიყვი სოკოს გამყიდველიც აქ არის (საქმესშია)
 Buni©i db (!)
